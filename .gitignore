@@ -1,0 +1,26 @@
+# Build output directory
+build/
+
+# Object files, executables, binaries, map files, listings, dependency files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+
+*.swo
+
+*.cache
+.vscode/
+*.suo
+*.user
+*.log
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+*.bak
+
